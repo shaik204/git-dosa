@@ -1,4 +1,4 @@
 #Dosa
 *dosa project started
 
-Add onion pieces and chilli pieces to the dosa batter of onion dosa
+Add chopped onion pieces and full chilli pieces to the dosa batter of onion dosa
